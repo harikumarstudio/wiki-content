@@ -1,5 +1,5 @@
 #!/bin/bash
-options=("CSS" "HTML" "JavaScript" "Веб-платформа" "Рецепты" "Доступность" "Вопрос на собеседовании" "Ответ на собеседовании")
+options=("C++""CSS" "HTML" "JavaScript" "Веб-платформа" "Рецепты" "Доступность" "Вопрос на собеседовании" "Ответ на собеседовании")
 tags=("Дока" "Статья")
 
 CATEGORY=""
@@ -43,6 +43,10 @@ PS3='Выберите раздел: '
 select opt in "${options[@]}"
 do
   case $opt in
+    "C++")
+      CATEGORY=cpp
+      break
+      ;;
     "CSS")
       CATEGORY=css
       break

@@ -6,6 +6,7 @@ const { slugify } = require('transliteration')
 const ROOT = process.cwd()
 
 const SECTION_ROOTS = new Set([
+  'cpp',
   'a11y',
   'css',
   'html',
