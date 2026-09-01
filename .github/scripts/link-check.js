@@ -7,6 +7,10 @@ const ROOT = process.cwd()
 
 const SECTION_ROOTS = new Set([
   'cpp',
+  'houdini',
+  'python',
+  'ai',
+  'unreal',
   'a11y',
   'css',
   'html',

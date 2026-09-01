@@ -47,6 +47,22 @@ do
       CATEGORY=cpp
       break
       ;;
+    "Houdini")
+      CATEGORY=houdini
+      break
+      ;;
+    "Python")
+      CATEGORY=python
+      break
+      ;;
+    "Artificial Intelligence")
+      CATEGORY=ai
+      break
+      ;;    
+    "Unreal Engine")
+      CATEGORY=unreal
+      break
+      ;;  
     "CSS")
       CATEGORY=css
       break
