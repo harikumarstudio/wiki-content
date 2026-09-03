@@ -1,3 +1,0 @@
-🛠 У ссылок по умолчанию задано подчёркивание. Если по дизайну оно не требуется, то нужно будет его _сбросить_ — задать свойство `text-decoration: none`. Это самый частый случай применения этого свойства. Перечёркивание или надчёркивание почти не встречаются в работе.
-
-🛠 Отдельные свойства — [`text-decoration-line`](/css/text-decoration-line/), [`text-decoration-style`](/css/text-decoration-style/), [`text-decoration-color`](/css/text-decoration-color/) и [`text-decoration-thickness`](/css/text-decoration-thickness/) — редко встречаются в вёрстке, но знать о них нужно, чтобы при необходимости не переписывать свойство целиком только для изменения стиля или цвета линии.
