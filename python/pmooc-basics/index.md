@@ -9,6 +9,7 @@ tags:
   - doka
 ---
 
+Some text about when it updates the time signature.
 <!--
 1. В description есть описание для соцсетей и поисковиков, не больше 200 символов
 2. В authors есть ники авторов основного текста
