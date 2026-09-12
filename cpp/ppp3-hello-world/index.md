@@ -1,16 +1,11 @@
 ---
-title: "Hello, World! `<prnt>`"
-description: "Меняем масштаб элемента."
+title: "Open, Door!"
+description: "Everything is possible"
 authors:
-  - ivkrylova
-contributors:
-  - inventoris
+  - harikumarstudio
 related:
-  - css/transform-function
-  - css/transform
-  - css/filter
 tags:
-  - doka
+  - article
 ---
 
 ## H2 Section Heading 

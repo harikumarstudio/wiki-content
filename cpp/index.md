@@ -17,14 +17,10 @@ groups:
       - fundamental-data-types
       - constants-and-strings
       - operators 
-  - name: 'MCP'
+  - name: 'MCS'
     items:
-      - lcpp-basics
-      - lcpp-basics-functions
-      - lcpp-debugging
-      - fundamental-data-types
-      - constants-and-strings
-      - operators 
+      - mcs-introduction-and-setup
+      - mcs-cpp-level-1
   - name: 'PPP3'
     items:
       - ppp3-hello-world

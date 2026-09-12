@@ -2,15 +2,10 @@
 title: "Debugging C++ Programs"
 description: "Find the bug!"
 authors:
-  - ivkrylova
-contributors:
-  - inventoris
+  - harikumarstudio
 related:
-  - css/transform-function
-  - css/transform
-  - css/filter
 tags:
-  - doka
+  - article
 ---
 
 ## Кратко
