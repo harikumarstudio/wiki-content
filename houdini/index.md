@@ -3,7 +3,15 @@ name: 'Houdini'
 groups:
   - name: 'Modelling'
     items:
-      - procedural
+      - mod-101-dice
+  - name: 'AI'
+    items:
+      - ai-fxhoudinimcp 
+      - ai-3d-gen-localmesh
+  - name: 'USD'
+    items:
+      - usd-create-export-scene 
+      - usd-add-collision
 
 ---
 

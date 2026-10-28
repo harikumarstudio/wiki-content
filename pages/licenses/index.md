@@ -1,46 +1,46 @@
 ---
-title: "Лицензии"
+title: "Licenses"
 location: "/licenses/"
 ---
 
 <aside>
 
-⚠️ На этой странице мы рассказываем о том, что можно делать с Докой, а что нет, простым языком. Юридически значимые тексты находятся в репозиториях, ссылки на них даны ниже.
+⚠️ This page explains in simple terms what you can and can't do with Doka. The legally binding texts are in the repositories; links to them are provided below.
 
 </aside>
 
-Контент в Доке и платформа лицензированы по-разному.
+The content in Doka and the platform are licensed differently.
 
-## Лицензия на текст
+## Text license
 
-Наши тексты распространяются по лицензии [CC BY-NC-SA 4.0](https://github.com/doka-guide/content/blob/main/LICENSE-SA.md).
+Our text is distributed under the [CC BY-NC-SA 4.0](https://github.com/doka-guide/content/blob/main/LICENSE-SA.md) license.
 
-Это значит, что тексты можно изменять и распространять в любом виде, пока вы сохраняете лицензию, ссылку на Доку и упоминание наших авторов, а также не просите за ваш продукт деньги.
+This means you can modify and distribute the text in any form, as long as you retain the license, a link to ArchViz Wiki, and credit to our authors, and do not charge for your product.
 
-## Лицензия на остальное
+## License for other content
 
-Весь остальной контент в Доке, кроме текста, распространяется по лицензии [CC BY-NC-ND 4.0](https://github.com/doka-guide/content/blob/main/LICENSE-ND.md). Его можно распространять в любом виде, пока вы не изменяете его, сохраняете ссылку на Доку и упоминание наших дизайнеров, а также не просите за ваш продукт деньги.
+All other content in Doka, apart from text, is distributed under the [CC BY-NC-ND 4.0](https://github.com/doka-guide/content/blob/main/LICENSE-ND.md) license. You can distribute it in any form as long as you do not modify it, retain a link to Doka and credit to our designers, and do not charge for your product.
 
-## Лицензия на код платформы
+## Platform code license
 
-Мы сохранили для платформы на базе [Eleventy](https://www.11ty.dev) лицензию [MIT](https://github.com/doka-guide/platform/blob/main/LICENSE.md).
+We have kept the [MIT](https://github.com/doka-guide/platform/blob/main/LICENSE.md) license for the platform, which is based on [Eleventy](https://www.11ty.dev).
 
-Это значит, что с содержимым [репозитория](https://github.com/doka-guide/platform) можно делать что угодно, но вы не получаете гарантий, что код подойдёт для решения ваших задач.
+This means you can do anything with the contents of the [repository](https://github.com/doka-guide/platform), but there is no guarantee that the code will suit your needs.
 
-## Лицензия на шрифт
+## Font licenses
 
-Авторские права на шрифт Graphik во всех начертаниях принадлежат ООО <!-- yaspeller ignore:start -->«Тайп Тудэй»<!-- yaspeller ignore:end -->. Шрифт предоставлен Доке [по лицензии для веб-шрифтов](https://type.today/ru/license/today/web).
+The copyright for the Graphik font in all styles belongs to <!-- yaspeller ignore:start -->Type Today LLC<!-- yaspeller ignore:end -->. The font is provided to Doka under a [web font license](https://type.today/ru/license/today/web).
 
-Авторские права на шрифт Spot Mono принадлежат Schick Toikka GbR. Шрифт предоставлен Доке [по лицензии для веб-шрифтов](https://www.schick-toikka.com/licenses).
+The copyright for the Spot Mono font belongs to Schick Toikka GbR. The font is provided to Doka under a [web font license](https://www.schick-toikka.com/licenses).
 
-## Особые правила
+## Special rules
 
-Мы можем использовать в Доке материалы из общественного достояния, либо распространяемые по другим лицензиям. Мы обязательно напишем об этом на странице, где они используются в контенте, плюс разместим в наших репозиториях полные тексты лицензий, по которым распространяются эти части.
+We may use public-domain materials in Doka, as well as materials distributed under other licenses. We will always note this on the page where they appear in the content, and provide the full texts of the licenses that apply to those parts in our repositories.
 
 <aside>
 
-⚠️ Если какие-либо из этих лицензий предполагают уникальное право Доки на использование каких-либо ресурсов, мы просим не переиспользовать их в своих проектах. Однако мы стараемся сделать Доку настолько свободной, насколько это возможно.
+⚠️ If any of these licenses grant Doka an exclusive right to use certain resources, we ask that you not reuse them in your projects. However, we strive to make Doka as open as possible.
 
 </aside>
 
-По всем вопросам, в том числе по вопросам правообладания, с командой можно связаться по почте [hi@doka.guide](mailto:hi@doka.guide).
+For any questions, including questions about ownership, you can contact the team at [hi@doka.guide](mailto:hi@doka.guide).

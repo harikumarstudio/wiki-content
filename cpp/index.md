@@ -19,7 +19,6 @@ groups:
       - operators 
   - name: 'MCS'
     items:
-      - mcs-introduction-and-setup
       - mcs-cpp-level-1
   - name: 'PPP3'
     items:
@@ -27,4 +26,4 @@ groups:
 
 ---
 
-C++ is a cross-platform language that can be used to create high-performance applications. C++ was developed by Bjarne Stroustrup.
+C++ is a cross-platform language that can be used to create high-performance applications.
